@@ -1,0 +1,4 @@
+pandas
+numpy
+seaborn
+-e . #indication that setup.py file is there, as it is mapped to setup.py
